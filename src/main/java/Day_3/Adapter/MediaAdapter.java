@@ -1,4 +1,4 @@
-package Day_3;
+package Day_3.Adapter;
 
 public class MediaAdapter implements MediaPlayer{
     private AdvancedMediaPlayer advancedMediaPlayer;

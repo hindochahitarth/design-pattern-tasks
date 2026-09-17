@@ -1,4 +1,4 @@
-package Day_3;
+package Day_3.Adapter;
 
 public class AdvancedMediaPlayer {
     void playVlc(String filename){
