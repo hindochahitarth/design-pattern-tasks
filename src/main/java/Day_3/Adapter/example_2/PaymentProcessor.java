@@ -1,4 +1,4 @@
 package Day_3.Adapter.example_2;
-
-public interface PaymentProcesoor {
+interface PaymentProcessor {
+    String pay(String orderId, int dollars);
 }
