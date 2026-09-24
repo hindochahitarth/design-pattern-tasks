@@ -1,4 +1,4 @@
-package org.demo;
+package Day_1;
 
 public class PushNotifier implements Notifier{
     private final String apikey;

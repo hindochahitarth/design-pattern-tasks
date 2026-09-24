@@ -1,4 +1,4 @@
-package org.demo;
+package Day_1;
 
 public class EmailNotifier implements Notifier{
     private final String smtpServer;

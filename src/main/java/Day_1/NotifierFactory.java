@@ -1,6 +1,4 @@
-package org.demo;
-
-import java.util.Locale;
+package Day_1;
 
 public class NotifierFactory {
     public static Notifier getNotifier(String channel){

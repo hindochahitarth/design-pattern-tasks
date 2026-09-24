@@ -1,4 +1,4 @@
-package org.demo;
+package Day_1;
 
 public class SmsNotifier implements Notifier{
     private final String gateway;

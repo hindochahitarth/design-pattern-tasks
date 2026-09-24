@@ -1,4 +1,4 @@
-package org.demo;
+package Day_1;
 
 public class SimpleSingleton {
     //create exactly one copy and hide
