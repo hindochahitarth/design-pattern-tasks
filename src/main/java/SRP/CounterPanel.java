@@ -1,4 +1,4 @@
-package example.solidprinciples.SRP;
+package SRP;
 class CounterPanel {
     private final Counter counter=new Counter();
     private final CounterFormatter formatter = new CounterFormatter();

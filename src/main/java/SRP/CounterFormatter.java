@@ -1,4 +1,4 @@
-package example.solidprinciples.SRP;
+package SRP;
 class CounterFormatter {
     private String label = "Count";
 

@@ -1,4 +1,4 @@
-package example.solidprinciples.SRP;
+package SRP;
 class Counter{
     private int val=0;
 
